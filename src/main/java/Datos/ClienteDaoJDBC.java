@@ -8,7 +8,7 @@ import java.sql.SQLException;
 import java.util.ArrayList;
 import java.util.List;
 
-
+// agrego comentario para guardar cambis en git y github desde netbeans
 public class ClienteDaoJDBC {
 
     private static final String SQL_Select = "SELECT * FROM cliente";
